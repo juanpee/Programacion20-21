@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
 * Juan Pedro Mancera Taboada
-* Calcular multiplo de 5 hasta 100
+* Calcular multiplo de 5 hasta 100 con bucle for
 */
 public class T5_E1 {
 public static void main(String[] args) {
