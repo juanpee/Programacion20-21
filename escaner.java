@@ -4,8 +4,8 @@ import java.util.Scanner;
 * EJ:
 */
 public class escaner {
-  public static void main(String[] args) {
-    Scanner s = new Scanner(System.in);
+public static void main(String[] args) {
+  Scanner s = new Scanner(System.in);
     
     System.out.print("Introduce tu nombre: ");
     String nombre = s.nextLine();
